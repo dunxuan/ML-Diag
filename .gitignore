@@ -21,3 +21,4 @@ ipython_config.py
 #   git rm -r .ipynb_checkpoints/
 
 /venv/*
+/Cache/*
